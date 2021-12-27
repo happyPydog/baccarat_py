@@ -1,0 +1,18 @@
+# python venv
+.venv
+
+# os
+.DS_Store
+
+# mypy
+.mypy_cache
+
+# __pycache__
+__pycache__
+
+# some reference code 
+appendix_with_replacement.py
+appendix_without_replacement.py
+
+# hydra output
+outputs

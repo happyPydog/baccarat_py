@@ -1,0 +1,11 @@
+betting_odds:
+  player: 2
+  banker: 1.95
+  tie: 9
+  player_two_pair: 12
+  banker_two_pair: 12
+
+number_of_decks: 8
+
+with_replacement_rounds: 100_000
+without_replacement_rounds: 10_000
