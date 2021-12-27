@@ -25,7 +25,7 @@ class ScoreBoard:
             "Banker",
             "Tie",
             "Player Two Pair",
-            "Banker Two Pari",
+            "Banker Two Pair",
         ]
         table.add_row(
             [

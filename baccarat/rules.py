@@ -4,9 +4,9 @@ from .base_model import Hand
 
 
 class State(Enum):
-    DEAL = "deal"
-    STOP = "stop"
-    NATURAL = "natural"
+    DEAL = auto()
+    STOP = auto()
+    NATURAL = auto()
 
 class Wins(Enum):
     PLAYER = auto()
